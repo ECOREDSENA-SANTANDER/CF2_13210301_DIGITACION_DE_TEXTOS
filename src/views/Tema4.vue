@@ -7,7 +7,7 @@
         span 4
       h1 El ritmo de la digitación
 
-    p.mb-4 En el oficio de la digitación, es recomendable adoptar los siguientes consejos para aumentar tanto la velocidad como la precisión en cualquier equipo donde se realicen actividades:
+    p.mb-4 Para mejorar el ritmo de digitación y optimizar la eficiencia, es clave mantener un ritmo constante, practicar ejercicios de calentamiento, adoptar una postura ergonómica y realizar prácticas regulares. Esto ayuda a aumentar tanto la velocidad como la precisión, facilitando un flujo de trabajo más estable y productivo.
     
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-3.col-md-7.col-7.mb-4.mb-lg-0(data-aos='fade-right')
@@ -35,14 +35,14 @@
                   .row.justify-content-center.align-items-center
                     .col-lg-12
                       p.mb-4 #[b c) Uso de mayúsculas mediante teclas auxiliares] 
-                      p.mb-0 para escribir en mayúsculas, existen dos opciones. Si se requiere escribir solo un caracter en mayúscula, se utiliza la tecla #[b “Shift”] con el meñique de la mano contraria a la que se usa para el caracter. Por ejemplo, para escribir la letra “M” en mayúscula, se presiona #[b “Shift”] con el meñique izquierdo y la “M” con el índice derecho. Para activar mayúsculas sostenidas, se utiliza la tecla #[b “Bloq Mayús”] y, una vez terminada la secuencia en mayúsculas, se desactiva con la misma tecla. #[b Estos atajos optimizan tiempo y esfuerzo, pero es necesario dominar la ubicación de los caracteres especiales en el teclado.]
+                      p.mb-0 para escribir en mayúsculas, existen dos opciones. Si se requiere escribir solo un caracter en mayúscula, se utiliza la tecla #[b “#[em Shift]”] con el meñique de la mano contraria a la que se usa para el caracter. Por ejemplo, para escribir la letra “M” en mayúscula, se presiona #[b “#[em Shift]”] con el meñique izquierdo y la “M” con el índice derecho. Para activar mayúsculas sostenidas, se utiliza la tecla #[b “Bloq Mayús”] y, una vez terminada la secuencia en mayúsculas, se desactiva con la misma tecla. #[b Estos atajos optimizan tiempo y esfuerzo, pero es necesario dominar la ubicación de los caracteres especiales en el teclado.]
             .row.justify-content-center
               .col-md-11
                 .tarjeta.tarjeta--blanca.p-5
                   .row.justify-content-center.align-items-center
                     .col-lg-12
                       p.mb-4 #[b d) Inserción de caracteres especiales] 
-                      p.mb-0 Los caracteres especiales, como los que se encuentran en la misma tecla que los números, se digitan utilizando una variación del consejo anterior. En lugar de pulsar #[b “Shift”] con un carácter alfabético, se usa para insertar un símbolo numérico, siguiendo la misma regla de utilizar la mano contraria.
+                      p.mb-0 Los caracteres especiales, como los que se encuentran en la misma tecla que los números, se digitan utilizando una variación del consejo anterior. En lugar de pulsar #[b “#[em Shift]”] con un carácter alfabético, se usa para insertar un símbolo numérico, siguiendo la misma regla de utilizar la mano contraria.
             .row.justify-content-center
               .col-md-11
                 .tarjeta.tarjeta--blanca.p-5
@@ -69,7 +69,8 @@
             .titulo-sexto.color-secundario.mb-4
               h5 Figura 10. 
               | Resumen de digitación de caracteres
-            img.img-a.img-t(src="@/assets/curso/temas/img26.png",alt='')
+            img.img-a.img-t.mb-4(src="@/assets/curso/temas/img26.png",alt='')
+            figcaption Fuente: SENA
 
     .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
       h4.mb-0.text-white.ps-5.pe-5 Digitación de teclas numéricas y especiales
@@ -91,7 +92,7 @@
       .col-lg-4.col-md-6.mb-4
         .overflow-hidden.h-100.bg8.p-4(data-aos="fade-right")
           img.img-a.img-t.mb-4.my-3(data-aos="zoom-in-left")(src='@/assets/curso/temas/img29.svg', alt='tema1')
-          p.text-center Es importante alternar ejercicios numéricos con textos que incluyan letras, manteniendo una proporción de uno a diez; es decir, por cada ejercicio de números, se deben realizar diez ejercicios con texto normal. Esto no solo ayuda a incrementar la velocidad, sino que refuerza la práctica con los números sin que se vuelva monótono.
+          p.text-center Es fundamental alternar ejercicios numéricos con ejercicios de texto en una proporción de uno a diez, es decir, por cada ejercicio numérico, realizar diez ejercicios de texto. Esta técnica no solo incrementa la velocidad, sino que refuerza la práctica con números sin generar monotonía.
 
     p.mb-4.text-center La siguiente figura expone el dedo y la mano correspondiente para cada carácter numérico:
 
@@ -100,7 +101,7 @@
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 11. 
           | Digitación de fila alfanumérica
-        img.img-a.img-t(src="@/assets/curso/temas/img30.png",alt='')
+        img.img-a.img-t(src="@/assets/curso/temas/img30.png",alt='La imagen presenta una de distribución de teclas en la fila alfanumérica, especificando la asignación de teclas y caracteres a cada dedo en ambas manos. En el lado izquierdo, el meñique está asignado a las teclas “°”, “!”, y “1”, el anular a “2” y “"”, el corazón a “3” y “.”, y el índice a “4”, “5”, “%” y “$”. En el lado derecho, el meñique corresponde a “0”, “=”, “?”, “¿” e “i”, el anular a “9” y “)”, el corazón a “8” y “(”, y el índice a “7”, “6”, “&” y “/”. Esta disposición facilita la digitación organizada en la fila de números y símbolos, permitiendo a cada dedo manejar teclas específicas.')
         figcaption Fuente: SENA
 
     .row.justify-content-center.align-items-center(data-aos="fade-right")
@@ -113,17 +114,18 @@
         img.img-a.img-t(src="@/assets/curso/temas/img31.png",alt='')
       .col-lg-6.bg1.ps-lg-0(data-aos="fade-right")
         .p-4.h-100
-          p.mb-4 Las teclas especiales, como #[b “Shift”, “Ctrl”, “Alt”] y las teclas de función, así como las teclas para escribir en mayúsculas, se digitan principalmente con los dedos meñiques, debido a su proximidad y a la necesidad de dejar libres los demás dedos para las teclas alfanuméricas. 
+          p.mb-4 Las teclas especiales, como #[b “#[em Shift]”, “Ctrl”, “Alt”] y las teclas de función, así como las teclas para escribir en mayúsculas, se digitan principalmente con los dedos meñiques, debido a su proximidad y a la necesidad de dejar libres los demás dedos para las teclas alfanuméricas. 
           p.mb-0 Aunque los meñiques son los dedos con menos fuerza, su uso adecuado contribuye a mantener una postura eficiente y reducir la sobrecarga en los dedos más fuertes, como los índices y pulgares. Es fundamental desarrollar la destreza y precisión en la digitación de estas teclas, ya que su uso es frecuente en combinación con otras teclas para ejecutar comandos o escribir en mayúsculas.
 
-    p.mb-4 En el caso de las mayúsculas iniciales se debe digitar con la tecla “Shift” de la mano contraria al carácter. Puede revisar el ejemplo en la siguiente figura:
+    p.mb-4 En el caso de las mayúsculas iniciales se debe digitar con la tecla “#[em Shift]” de la mano contraria al carácter. Puede revisar el ejemplo en la siguiente figura:
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-8.mb-4
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 12. 
           | Ejemplo para digitación de mayúscula inicial
-        img.img-a.img-t(src="@/assets/curso/temas/img32.png",alt='')
+        img.img-a.img-t.mb-2(src="@/assets/curso/temas/img32.png",alt='La imagen presenta un teclado en el que se destacan las teclas Shift y una tecla de letra, ejemplificando el proceso para escribir una mayúscula inicial. La tecla Shift está resaltada en color amarillo en el lado izquierdo, mientras que la tecla de letra seleccionada para la mayúscula está marcada en azul. Esta configuración sugiere la combinación de ambas teclas para lograr la capitalización inicial de una palabra, indicando la técnica ergonómica para presionar ambas teclas de manera simultánea con los dedos adecuados y sin desplazar las manos excesivamente.')
+        figcaption Fuente: SENA
 
     p.mb-4 Para la mayúscula sostenida, se recomienda digitar con la tecla de bloqueo de mayúsculas utilizando primero esta tecla y luego las palabras o letras. Tal como se indica en la siguiente figura:
 
@@ -132,7 +134,8 @@
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 13. 
           | Ejemplo para digitación de mayúscula sostenida
-        img.img-a.img-t(src="@/assets/curso/temas/img33.png",alt='')
+        img.img-a.img-t.mb-2(src="@/assets/curso/temas/img33.png",alt='La imagen presenta un teclado donde se destaca la tecla Caps Lock en color amarillo, junto a una tecla de letra resaltada en azul. Esta configuración ilustra el proceso para activar la mayúscula sostenida, permitiendo escribir en letras mayúsculas de manera continua sin necesidad de mantener presionada la tecla Shift. Al activar Caps Lock, cualquier tecla de letra pulsada generará caracteres en mayúscula, facilitando la escritura prolongada en este formato y reduciendo la fatiga en los dedos.')
+        figcaption Fuente: SENA
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-12

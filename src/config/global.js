@@ -134,12 +134,12 @@ export default {
         'Secuencias de varias teclas presionadas simultáneamente para ejecutar comandos específicos.',
     },
     {
-      termino: 'Shift',
+      termino: '<em>Shift</em>',
       significado:
         'Tecla que cambia el estado de los caracteres de minúsculas a mayúsculas y permite insertar símbolos especiales.',
     },
     {
-      termino: 'Alt',
+      termino: '<em>Alt</em>',
       significado:
         'Tecla que se usa para acceder a funciones alternativas, como insertar símbolos mediante códigos numéricos.',
     },
@@ -224,11 +224,6 @@ export default {
         'RA-MA (s.f.). Procesar textos numéricos en teclado extendido.',
       link: '',
     },
-    {
-      referencia:
-        'Vásquez, S. (2010). Sectorización del teclado para digitación.',
-      link: '',
-    },
   ],
   creditos: [
     {
@@ -252,13 +247,13 @@ export default {
         {
           nombre: 'Félix Augusto Reyes Gutiérrez',
           cargo: 'Experto temático',
-          centro: 'Centro de Industria y de la Construcción',
+          centro: 'Centro de Industria y de la Construcción - Regional Tolima',
         },
         {
           nombre: 'Diana Rocío Possos Beltrán',
           cargo: 'Asesora pedagógica',
           centro:
-            'Centro de la Tecnología del Diseño y la Productividad Empresarial',
+            'Centro de la Tecnología del Diseño y la Productividad Empresarial - Regional Cundinamarca',
         },
         {
           nombre: 'Sandra Paola Morales Paez',
@@ -291,7 +286,7 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
+          nombre: 'Yineth Ibette Gonzalez Quintero',
           cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
