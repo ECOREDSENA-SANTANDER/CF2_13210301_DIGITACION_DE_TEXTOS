@@ -69,8 +69,10 @@
             .titulo-sexto.color-secundario.mb-4
               h5 Figura 10. 
               | Resumen de digitación de caracteres
-            img.img-a.img-t.mb-4(src="@/assets/curso/temas/img26.png",alt='')
-            figcaption Fuente: SENA
+            img.img-a.img-t.mb-4(src="@/assets/curso/temas/img26.png",alt='La imagen proporciona un resumen de digitación de caracteres, clasificando las teclas en cuatro filas: central, superior, inferior y numérica. Cada fila contiene un conjunto específico de letras, números o símbolos. Además, se asocian caracteres a cada dedo de las manos, indicando qué teclas corresponden al meñique, anular, corazón e índice de cada mano, para una distribución ergonómica en la escritura. Incluye recomendaciones como no mirar el teclado, mover los dedos en lugar de las manos, utilizar Shift para caracteres especiales y practicar digitando primero letras, luego números y símbolos. También enfatiza la importancia de la redacción, ortografía y presentación en la digitación.')
+            .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+              .col-lg-9
+                figcaption Fuente: SENA
 
     .etiqueta.p-2.d-flex.mb-5(data-aos="fade-left")
       h4.mb-0.text-white.ps-5.pe-5 Digitación de teclas numéricas y especiales

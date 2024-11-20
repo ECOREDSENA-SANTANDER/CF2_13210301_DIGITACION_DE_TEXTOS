@@ -207,7 +207,7 @@ export default {
     },
     {
       referencia: 'RAE. (2015). Definiciones principales.',
-      link: 'http://www.rae.es/recursos/diccionarios/drae.',
+      link: '',
     },
     {
       referencia:

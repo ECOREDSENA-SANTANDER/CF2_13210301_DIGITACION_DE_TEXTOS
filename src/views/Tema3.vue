@@ -79,12 +79,15 @@
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 6. 
           | Posición de los dedos en teclado superior
-        img.img-a.img-t(src="@/assets/curso/temas/img21.svg",alt='La imagen representa la colocación adecuada de las manos sobre un teclado, destacando la posición de los dedos en la fila de teclas guía o fila de inicio. Cada dedo se encuentra alineado sobre teclas específicas, promoviendo una postura ergonómica para una digitación eficiente y precisa. Los pulgares descansan sobre la barra espaciadora, mientras que los demás dedos están en posición para cubrir tanto las teclas de letras principales como las teclas de función en la fila superior. Esta disposición facilita el acceso a todas las teclas sin necesidad de mover excesivamente las manos, optimizando la velocidad de escritura y reduciendo la fatiga.')
+        img.img-a.img-t.mb-3(src="@/assets/curso/temas/img21.svg",alt='La imagen representa la colocación adecuada de las manos sobre un teclado, destacando la posición de los dedos en la fila de teclas guía o fila de inicio. Cada dedo se encuentra alineado sobre teclas específicas, promoviendo una postura ergonómica para una digitación eficiente y precisa. Los pulgares descansan sobre la barra espaciadora, mientras que los demás dedos están en posición para cubrir tanto las teclas de letras principales como las teclas de función en la fila superior. Esta disposición facilita el acceso a todas las teclas sin necesidad de mover excesivamente las manos, optimizando la velocidad de escritura y reduciendo la fatiga.')
+        figcaption Fuente: SENA
+      
       .col-lg-6.mb-4
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 7. 
           | Posición de los dedos en teclado inferior
-        img.img-a.img-t(src="@/assets/curso/temas/img22.svg",alt='La imagen ilustra la colocación correcta de las manos sobre un teclado en relación con la fila inferior de teclas. Los dedos se encuentran en posiciones estratégicas para acceder a las teclas de esta fila sin necesidad de desplazamientos amplios. Esta disposición promueve una digitación ergonómica, minimizando el esfuerzo y permitiendo un acceso eficiente a las teclas de funciones y letras inferiores. La postura facilita que los dedos alcancen las teclas correspondientes con movimientos cortos, lo cual es ideal para mantener una velocidad de escritura constante y reducir la fatiga en las manos.')
+        img.img-a.img-t.mb-3(src="@/assets/curso/temas/img22.svg",alt='La imagen ilustra la colocación correcta de las manos sobre un teclado en relación con la fila inferior de teclas. Los dedos se encuentran en posiciones estratégicas para acceder a las teclas de esta fila sin necesidad de desplazamientos amplios. Esta disposición promueve una digitación ergonómica, minimizando el esfuerzo y permitiendo un acceso eficiente a las teclas de funciones y letras inferiores. La postura facilita que los dedos alcancen las teclas correspondientes con movimientos cortos, lo cual es ideal para mantener una velocidad de escritura constante y reducir la fatiga en las manos.')
+        figcaption Fuente: SENA
 
     p.mb-4.text-center(data-aos="fade-right") Para complementar esta información, se presenta una figura que indica el posicionamiento de los dedos con respecto a las teclas de la línea:
 

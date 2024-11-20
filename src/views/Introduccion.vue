@@ -11,8 +11,8 @@
     
     .row
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/5YbJZ6icR3Q?si=D5QYMDzddEEJmkLH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-      figcaption Video. 
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/yx3YIglop3s?si=PooKrfGqPY8amf0D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+      figcaption Video. Domina la Digitación eficiencia y precisión
       
 </template>
 
