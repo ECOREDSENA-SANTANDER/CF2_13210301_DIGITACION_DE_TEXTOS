@@ -8,6 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
+    p.mb-4 “Descubra cómo mejorar la velocidad y precisión en la digitación mientras protege su bienestar físico. Aprenda técnicas ergonómicas, combinaciones de teclas y métodos para optimizar el desempeño en tareas administrativas. Lo invitamos a conocer el video de introducción para comenzar a dominar estas habilidades esenciales.”  
     
     .row
       .video

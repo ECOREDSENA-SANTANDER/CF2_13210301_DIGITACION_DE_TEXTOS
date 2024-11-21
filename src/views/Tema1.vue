@@ -106,11 +106,13 @@
       .col-lg-6
         img.img-a.img-t(src="@/assets/curso/temas/img6.png",alt='La imagen presenta una serie de combinaciones numéricas con la tecla "Alt" que permiten insertar caracteres especiales en aplicaciones de procesamiento de texto y otros programas compatibles. Cada combinación está estructurada con "Alt" seguido de un número que va desde tres dígitos hasta cuatro, y el resultado es un carácter específico, como letras con acentos, símbolos matemáticos, y otros caracteres especiales de diferentes alfabetos. Los grupos de combinaciones están organizados en columnas, facilitando la consulta rápida de los códigos necesarios para ingresar cada símbolo a través del teclado.')
     
-    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-right")
-      .col-lg-6.col-md-7.col-7.mb-3
-        img.img-a.img-t(src="@/assets/curso/temas/img7.png",alt='')
-      .col-lg-6.mb-3
-        img.img-a.img-t(src="@/assets/curso/temas/img8.png",alt='La imagen presenta una serie de combinaciones numéricas con la tecla "Alt" que permiten insertar caracteres especiales en aplicaciones de procesamiento de texto y otros programas compatibles. Cada combinación está estructurada con "Alt" seguido de un número que va desde tres dígitos hasta cuatro, y el resultado es un carácter específico, como letras con acentos, símbolos matemáticos, y otros caracteres especiales de diferentes alfabetos. Los grupos de combinaciones están organizados en columnas, facilitando la consulta rápida de los códigos necesarios para ingresar cada símbolo a través del teclado.')
+    .row.justify-content-center.align-items-center(data-aos="fade-right")
+      .col-lg-6.col-md-7.col-7.mb-0
+        img.img-a.img-t.mb-2(src="@/assets/curso/temas/img7.png",alt='')
+      .col-lg-6.mb-0
+        img.img-a.img-t.mb-2(src="@/assets/curso/temas/img8.png",alt='La imagen presenta una serie de combinaciones numéricas con la tecla "Alt" que permiten insertar caracteres especiales en aplicaciones de procesamiento de texto y otros programas compatibles. Cada combinación está estructurada con "Alt" seguido de un número que va desde tres dígitos hasta cuatro, y el resultado es un carácter específico, como letras con acentos, símbolos matemáticos, y otros caracteres especiales de diferentes alfabetos. Los grupos de combinaciones están organizados en columnas, facilitando la consulta rápida de los códigos necesarios para ingresar cada símbolo a través del teclado.')
+    figcaption.mb-5 Fuente: SENA
+
 
     .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
       h4.mb-0.text-white.ps-5.pe-5 Otras combinaciones útiles para #[em PC]

@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-12
         .titulo-sextos.color-primario.t.mb-4
-          h3.mb-2.my-1 TIPS
+          h3.mb-2.my-1 #[em TIPS]
 
     p.mb-4(data-aos="fade-right") A continuación, se presentan recomendaciones para mejorar la eficiencia en la digitación, optimizando el tiempo y aplicando las indicaciones ergonómicas sugeridas.
 
