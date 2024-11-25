@@ -186,7 +186,7 @@ export default {
     {
       termino: 'Teclas especiales',
       significado:
-        'Teclas que permiten realizar funciones adicionales en el teclado, como Ctrl, Alt o Shift.',
+        'Teclas que permiten realizar funciones adicionales en el teclado, como Ctrl, <em>Alt</em> o <em>Shift</em>.',
     },
     {
       termino: 'Atajos de teclado',

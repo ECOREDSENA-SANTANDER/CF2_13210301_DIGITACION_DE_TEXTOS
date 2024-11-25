@@ -116,7 +116,7 @@
         img.img-a.img-t(src="@/assets/curso/temas/img31.png",alt='')
       .col-lg-6.bg1.ps-lg-0(data-aos="fade-right")
         .p-4.h-100
-          p.mb-4 Las teclas especiales, como #[b “#[em Shift]”, “Ctrl”, “Alt”] y las teclas de función, así como las teclas para escribir en mayúsculas, se digitan principalmente con los dedos meñiques, debido a su proximidad y a la necesidad de dejar libres los demás dedos para las teclas alfanuméricas. 
+          p.mb-4 Las teclas especiales, como #[b “#[em Shift]”, “Ctrl”, “#[em Alt]”] y las teclas de función, así como las teclas para escribir en mayúsculas, se digitan principalmente con los dedos meñiques, debido a su proximidad y a la necesidad de dejar libres los demás dedos para las teclas alfanuméricas. 
           p.mb-0 Aunque los meñiques son los dedos con menos fuerza, su uso adecuado contribuye a mantener una postura eficiente y reducir la sobrecarga en los dedos más fuertes, como los índices y pulgares. Es fundamental desarrollar la destreza y precisión en la digitación de estas teclas, ya que su uso es frecuente en combinación con otras teclas para ejecutar comandos o escribir en mayúsculas.
 
     p.mb-4 En el caso de las mayúsculas iniciales se debe digitar con la tecla “#[em Shift]” de la mano contraria al carácter. Puede revisar el ejemplo en la siguiente figura:
