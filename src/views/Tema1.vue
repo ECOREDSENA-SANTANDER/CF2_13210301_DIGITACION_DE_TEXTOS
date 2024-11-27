@@ -102,15 +102,15 @@
           | Combinaciones con la tecla #[em Alt]
     .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
       .col-lg-6
-        img.img-a.img-t(src="@/assets/curso/temas/img5.png",alt='La imagen presenta una serie de combinaciones numéricas con la tecla "Alt" que permiten insertar caracteres especiales en aplicaciones de procesamiento de texto y otros programas compatibles. Cada combinación está estructurada con "Alt" seguido de un número que va desde tres dígitos hasta cuatro, y el resultado es un carácter específico, como letras con acentos, símbolos matemáticos, y otros caracteres especiales de diferentes alfabetos. Los grupos de combinaciones están organizados en columnas, facilitando la consulta rápida de los códigos necesarios para ingresar cada símbolo a través del teclado.')
+        img.img-a.img-t(src="@/assets/curso/temas/img5.png",alt='La imagen presenta una serie de combinaciones numéricas con la tecla "Alt" que permiten insertar caracteres especiales en aplicaciones de procesamiento de texto y otros programas compatibles. Cada combinación está estructurada con "Alt" seguido de un número que va desde tres dígitos hasta cuatro, y el resultado es un caracter específico, como letras con acentos, símbolos matemáticos, y otros caracteres especiales de diferentes alfabetos. Los grupos de combinaciones están organizados en columnas, facilitando la consulta rápida de los códigos necesarios para ingresar cada símbolo a través del teclado.')
       .col-lg-6
-        img.img-a.img-t(src="@/assets/curso/temas/img6.png",alt='La imagen presenta una serie de combinaciones numéricas con la tecla "Alt" que permiten insertar caracteres especiales en aplicaciones de procesamiento de texto y otros programas compatibles. Cada combinación está estructurada con "Alt" seguido de un número que va desde tres dígitos hasta cuatro, y el resultado es un carácter específico, como letras con acentos, símbolos matemáticos, y otros caracteres especiales de diferentes alfabetos. Los grupos de combinaciones están organizados en columnas, facilitando la consulta rápida de los códigos necesarios para ingresar cada símbolo a través del teclado.')
+        img.img-a.img-t(src="@/assets/curso/temas/img6.png",alt='La imagen presenta una serie de combinaciones numéricas con la tecla "Alt" que permiten insertar caracteres especiales en aplicaciones de procesamiento de texto y otros programas compatibles. Cada combinación está estructurada con "Alt" seguido de un número que va desde tres dígitos hasta cuatro, y el resultado es un caracter específico, como letras con acentos, símbolos matemáticos, y otros caracteres especiales de diferentes alfabetos. Los grupos de combinaciones están organizados en columnas, facilitando la consulta rápida de los códigos necesarios para ingresar cada símbolo a través del teclado.')
     
     .row.justify-content-center.align-items-center(data-aos="fade-right")
       .col-lg-6.col-md-7.col-7.mb-0
         img.img-a.img-t.mb-2(src="@/assets/curso/temas/img7.png",alt='')
       .col-lg-6.mb-0
-        img.img-a.img-t.mb-2(src="@/assets/curso/temas/img8.png",alt='La imagen presenta una serie de combinaciones numéricas con la tecla "Alt" que permiten insertar caracteres especiales en aplicaciones de procesamiento de texto y otros programas compatibles. Cada combinación está estructurada con "Alt" seguido de un número que va desde tres dígitos hasta cuatro, y el resultado es un carácter específico, como letras con acentos, símbolos matemáticos, y otros caracteres especiales de diferentes alfabetos. Los grupos de combinaciones están organizados en columnas, facilitando la consulta rápida de los códigos necesarios para ingresar cada símbolo a través del teclado.')
+        img.img-a.img-t.mb-2(src="@/assets/curso/temas/img8.png",alt='La imagen presenta una serie de combinaciones numéricas con la tecla "Alt" que permiten insertar caracteres especiales en aplicaciones de procesamiento de texto y otros programas compatibles. Cada combinación está estructurada con "Alt" seguido de un número que va desde tres dígitos hasta cuatro, y el resultado es un caracter específico, como letras con acentos, símbolos matemáticos, y otros caracteres especiales de diferentes alfabetos. Los grupos de combinaciones están organizados en columnas, facilitando la consulta rápida de los códigos necesarios para ingresar cada símbolo a través del teclado.')
     figcaption.mb-5 Fuente: SENA
 
 
@@ -125,11 +125,12 @@
           h5 Figura 2. 
           | Combinaciones de teclas útiles para #[em PC]
 
-    .row.justify-content-center.align-items-end.mb-5(data-aos="fade-right")
-      .col-lg-6.mb-3
+    .row.justify-content-center.align-items-end.mb-0(data-aos="fade-right")
+      .col-lg-6.mb-2
         img.img-a.img-t(src="@/assets/curso/temas/img9.png",alt='La imagen contiene una lista de funciones comunes en PC junto con sus combinaciones de teclas correspondientes, diseñadas para facilitar tareas frecuentes. Entre las funciones se encuentran acciones como abrir, buscar, reemplazar, guardar, seleccionar todo, copiar, pegar, y ajustar el tamaño de la fuente, entre otras. Cada función está asociada a una combinación de teclas específica, que incluye secuencias con las teclas "Ctrl," "Alt," "Shift," y combinaciones adicionales, permitiendo agilizar el trabajo en el sistema operativo y en aplicaciones de procesamiento de texto. La estructura organiza las funciones en una columna junto a las combinaciones en otra, proporcionando una referencia rápida para el aprendiz.')
       .col-lg-6.col-md-7.col-10.mb-3
         img.img-a.img-t(src="@/assets/curso/temas/img10.png",alt='La imagen presenta varias posiciones de las manos sobre un teclado y un mouse, indicando cuáles son las posturas correctas e incorrectas. Las posiciones correctas se destacan con marcas de verificación verde y consisten en mantener las manos alineadas con el teclado y el mouse, evitando flexiones exageradas de las muñecas. Las posiciones incorrectas, marcadas con una X roja, incluyen manos colocadas de manera muy juntas, muñecas dobladas hacia arriba o abajo, y una excesiva extensión o inclinación en el uso del mouse, lo que puede generar incomodidad o lesiones.')
+    figcaption.mb-5 Fuente: SENA
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-8
@@ -171,10 +172,11 @@
           | Combinaciones de teclas en MAC
 
     .row.justify-content-center.align-items-end(data-aos="fade-right")
-      .col-lg-6.mb-3
+      .col-lg-6.mb-2
         img.img-a.img-t(src="@/assets/curso/temas/img13.png",alt='La imagen presenta una tabla de combinaciones de teclas para usuarios de dispositivos Mac, con dos columnas: "Función Rápida" y "Descripción". Cada fila enumera un atajo de teclado acompañado de su función específica. Entre los atajos, se incluyen acciones como cortar, copiar, pegar, deshacer, seleccionar todos los elementos, buscar términos en un documento, buscar la siguiente aparición de un término, ocultar o minimizar ventanas, imprimir y guardar documentos, cambiar entre aplicaciones abiertas, y capturar la pantalla completa. Además, se detalla cómo rehacer acciones deshechas y cómo minimizar o traer aplicaciones al frente, proporcionando una guía rápida para la optimización del trabajo en el sistema operativo.')
-      .col-lg-6.col-md-7.col-10.mb-4
+      .col-lg-6.col-md-7.col-10.mb-3
         img.img-a.img-t(src="@/assets/curso/temas/img14.png",alt='')
+    figcaption.mb-0 Fuente: SENA
 
 
 

@@ -35,14 +35,14 @@
                   .row.justify-content-center.align-items-center
                     .col-lg-12
                       p.mb-4 #[b c) Uso de mayúsculas mediante teclas auxiliares] 
-                      p.mb-0 para escribir en mayúsculas, existen dos opciones. Si se requiere escribir solo un caracter en mayúscula, se utiliza la tecla #[b “#[em Shift]”] con el meñique de la mano contraria a la que se usa para el caracter. Por ejemplo, para escribir la letra “M” en mayúscula, se presiona #[b “#[em Shift]”] con el meñique izquierdo y la “M” con el índice derecho. Para activar mayúsculas sostenidas, se utiliza la tecla #[b “Bloq Mayús”] y, una vez terminada la secuencia en mayúsculas, se desactiva con la misma tecla. #[b Estos atajos optimizan tiempo y esfuerzo, pero es necesario dominar la ubicación de los caracteres especiales en el teclado.]
+                      p.mb-0 Para escribir en mayúsculas, existen dos opciones. Si se requiere escribir solo un caracter en mayúscula, se utiliza la tecla #[b “#[em Shift]”] con el meñique de la mano contraria a la que se usa para el caracter. Por ejemplo, para escribir la letra “M” en mayúscula, se presiona #[b “#[em Shift]”] con el meñique izquierdo y la “M” con el índice derecho. Para activar mayúsculas sostenidas, se utiliza la tecla #[b “Bloq Mayús”] y, una vez terminada la secuencia en mayúsculas, se desactiva con la misma tecla. #[b Estos atajos optimizan tiempo y esfuerzo, pero es necesario dominar la ubicación de los caracteres especiales en el teclado.]
             .row.justify-content-center
               .col-md-11
                 .tarjeta.tarjeta--blanca.p-5
                   .row.justify-content-center.align-items-center
                     .col-lg-12
                       p.mb-4 #[b d) Inserción de caracteres especiales] 
-                      p.mb-0 Los caracteres especiales, como los que se encuentran en la misma tecla que los números, se digitan utilizando una variación del consejo anterior. En lugar de pulsar #[b “#[em Shift]”] con un carácter alfabético, se usa para insertar un símbolo numérico, siguiendo la misma regla de utilizar la mano contraria.
+                      p.mb-0 Los caracteres especiales, como los que se encuentran en la misma tecla que los números, se digitan utilizando una variación del consejo anterior. En lugar de pulsar #[b “#[em Shift]”] con un caracter alfabético, se usa para insertar un símbolo numérico, siguiendo la misma regla de utilizar la mano contraria.
             .row.justify-content-center
               .col-md-11
                 .tarjeta.tarjeta--blanca.p-5
@@ -56,7 +56,7 @@
                   .row.justify-content-center.align-items-center
                     .col-lg-12
                       p.mb-4 #[b f) Digitación del teclado numérico estándar] 
-                      p.mb-0 este teclado está compuesto por teclas organizadas en cinco filas y cuatro columnas, en donde la fila central será aquella en la que se encuentran los números 4, 5, 6, +, y en donde la tecla del 5 tiene, al igual que los caracteres f y j, una línea resaltada para indicar que es la guía; esto con el propósito de realizar la digitación sin observar los números. El uso de este teclado está recomendado sólo en los casos en los que se debe insertar una considerable cantidad de números, de lo contrario, se sugiere utilice la fila de caracteres ubicada sobre el teclado superior. En los computadores portátiles el teclado numérico se encuentra integrado al alfabético, por lo que se pueden activar estas teclas de dos maneras: pulse las teclas #[b “Fn”] y #[b “F12”] o #[b “Bloq Num”] para luego insertar los números, o, utilizar solo #[b “Fn”] y con la otra mano, digitar los números directamente.
+                      p.mb-0 Este teclado está compuesto por teclas organizadas en cinco filas y cuatro columnas, en donde la fila central será aquella en la que se encuentran los números 4, 5, 6, +, y en donde la tecla del 5 tiene, al igual que los caracteres f y j, una línea resaltada para indicar que es la guía; esto con el propósito de realizar la digitación sin observar los números. El uso de este teclado está recomendado sólo en los casos en los que se debe insertar una considerable cantidad de números, de lo contrario, se sugiere utilice la fila de caracteres ubicada sobre el teclado superior. En los computadores portátiles el teclado numérico se encuentra integrado al alfabético, por lo que se pueden activar estas teclas de dos maneras: pulse las teclas #[b “Fn”] y #[b “F12”] o #[b “Bloq Num”] para luego insertar los números, o, utilizar solo #[b “Fn”] y con la otra mano, digitar los números directamente.
 
     p.mb-4.text-center La siguiente figura le dará un pequeño resumen para tener en cuenta mientras digita:
 
@@ -96,7 +96,7 @@
           img.img-a.img-t.mb-4.my-3(data-aos="zoom-in-left")(src='@/assets/curso/temas/img29.svg', alt='tema1')
           p.text-center Es fundamental alternar ejercicios numéricos con ejercicios de texto en una proporción de uno a diez, es decir, por cada ejercicio numérico, realizar diez ejercicios de texto. Esta técnica no solo incrementa la velocidad, sino que refuerza la práctica con números sin generar monotonía.
 
-    p.mb-4.text-center La siguiente figura expone el dedo y la mano correspondiente para cada carácter numérico:
+    p.mb-4.text-center La siguiente figura expone el dedo y la mano correspondiente para cada caracter numérico:
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-6.mb-4
@@ -119,7 +119,7 @@
           p.mb-4 Las teclas especiales, como #[b “#[em Shift]”, “Ctrl”, “#[em Alt]”] y las teclas de función, así como las teclas para escribir en mayúsculas, se digitan principalmente con los dedos meñiques, debido a su proximidad y a la necesidad de dejar libres los demás dedos para las teclas alfanuméricas. 
           p.mb-0 Aunque los meñiques son los dedos con menos fuerza, su uso adecuado contribuye a mantener una postura eficiente y reducir la sobrecarga en los dedos más fuertes, como los índices y pulgares. Es fundamental desarrollar la destreza y precisión en la digitación de estas teclas, ya que su uso es frecuente en combinación con otras teclas para ejecutar comandos o escribir en mayúsculas.
 
-    p.mb-4 En el caso de las mayúsculas iniciales se debe digitar con la tecla “#[em Shift]” de la mano contraria al carácter. Puede revisar el ejemplo en la siguiente figura:
+    p.mb-4 En el caso de las mayúsculas iniciales se debe digitar con la tecla “#[em Shift]” de la mano contraria al caracter. Puede revisar el ejemplo en la siguiente figura:
 
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-8.mb-4
