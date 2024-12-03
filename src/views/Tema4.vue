@@ -81,7 +81,7 @@
       .col-lg-12
         .titulo-sextos.color-primario.t.mb-4
           h3.mb-2.my-1 Las teclas numéricas
-
+          
     .row.justify-content-center.mb-3
       .col-lg-4.col-md-6.mb-4
         .overflow-hidden.h-100.bg8.p-4(data-aos="fade-right")

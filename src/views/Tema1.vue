@@ -158,8 +158,8 @@
               | Caracteres especiales del teclado MAC
         .row.justify-content-center.align-items-center.mb-4
           .col-lg-9
-            img.img-a.img-t(src="@/assets/curso/temas/img12.png",alt='La imagen presenta una serie de teclas especiales del teclado de Mac, destacando cinco teclas con sus respectivas funciones. Estas teclas incluyen "Caps Lock" para el bloqueo de mayúsculas, "Shift" para activar mayúsculas temporalmente, "Control" para comandos adicionales, "Option" para opciones alternativas en funciones y caracteres, y "Command" como la tecla principal para accesos directos en el sistema operativo. Cada tecla está etiquetada en la parte inferior con su función, ofreciendo una referencia rápida para usuarios que necesiten utilizar atajos y comandos en dispositivos Mac.')
-            
+            img.img-a.img-t.mb-4(src="@/assets/curso/temas/img12.png",alt='La imagen presenta una serie de teclas especiales del teclado de Mac, destacando cinco teclas con sus respectivas funciones. Estas teclas incluyen "Caps Lock" para el bloqueo de mayúsculas, "Shift" para activar mayúsculas temporalmente, "Control" para comandos adicionales, "Option" para opciones alternativas en funciones y caracteres, y "Command" como la tecla principal para accesos directos en el sistema operativo. Cada tecla está etiquetada en la parte inferior con su función, ofreciendo una referencia rápida para usuarios que necesiten utilizar atajos y comandos en dispositivos Mac.')
+            figcaption.hj Fuente: SENA
     .etiqueta.p-2.d-flex.mb-4(data-aos="fade-left")
       h4.mb-0.text-white.ps-5.pe-5 Funciones rápidas
     
@@ -172,8 +172,8 @@
           | Combinaciones de teclas en MAC
 
     .row.justify-content-center.align-items-end(data-aos="fade-right")
-      .col-lg-6.mb-2
-        img.img-a.img-t(src="@/assets/curso/temas/img13.png",alt='La imagen presenta una tabla de combinaciones de teclas para usuarios de dispositivos Mac, con dos columnas: "Función Rápida" y "Descripción". Cada fila enumera un atajo de teclado acompañado de su función específica. Entre los atajos, se incluyen acciones como cortar, copiar, pegar, deshacer, seleccionar todos los elementos, buscar términos en un documento, buscar la siguiente aparición de un término, ocultar o minimizar ventanas, imprimir y guardar documentos, cambiar entre aplicaciones abiertas, y capturar la pantalla completa. Además, se detalla cómo rehacer acciones deshechas y cómo minimizar o traer aplicaciones al frente, proporcionando una guía rápida para la optimización del trabajo en el sistema operativo.')
+      .col-lg-6.mb-2.pe-0
+        img.img-a.img-t(src="@/assets/curso/temas/img13.svg",alt='La imagen presenta una tabla de combinaciones de teclas para usuarios de dispositivos Mac, con dos columnas: "Función Rápida" y "Descripción". Cada fila enumera un atajo de teclado acompañado de su función específica. Entre los atajos, se incluyen acciones como cortar, copiar, pegar, deshacer, seleccionar todos los elementos, buscar términos en un documento, buscar la siguiente aparición de un término, ocultar o minimizar ventanas, imprimir y guardar documentos, cambiar entre aplicaciones abiertas, y capturar la pantalla completa. Además, se detalla cómo rehacer acciones deshechas y cómo minimizar o traer aplicaciones al frente, proporcionando una guía rápida para la optimización del trabajo en el sistema operativo.')
       .col-lg-6.col-md-7.col-10.mb-3
         img.img-a.img-t(src="@/assets/curso/temas/img14.png",alt='')
     figcaption.mb-0 Fuente: SENA
